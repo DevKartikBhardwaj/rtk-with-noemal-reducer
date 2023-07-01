@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.temporary {
+  margin: 199px;
+  text-align: center;
+}
+
+button {
+  margin-right: 5px;
+  padding: 8px;
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+}
